@@ -13,15 +13,15 @@ Some Findings
 - The rate per 100000 of the gun deaths involving the police is lowest among whites 
 
 Usage:
-intent_rel_gender > gives the relationship between the cause of violence and gender
-intent_rel_month > How about we find out which month is the worst in these cases?
-ranking_the_intents > which is the worst
-count_by_police > police vs. race involvement
-count_by_homicide > race vs. intent
-count_race_per_hundrendk > Deaths in race:population (per 100000)
-count_race > deaths per race
-count_gender >  deaths per gender
-count_monthly_deaths > overall months in the 3 years
-count_yearly_deaths >  deaths per year
+- intent_rel_gender > gives the relationship between the cause of violence and gender
+- intent_rel_month > How about we find out which month is the worst in these cases?
+- ranking_the_intents > which is the worst
+- count_by_police > police vs. race involvement
+- count_by_homicide > race vs. intent
+- count_race_per_hundrendk > Deaths in race:population (per 100000)
+- count_race > deaths per race
+- count_gender >  deaths per gender
+- count_monthly_deaths > overall months in the 3 years
+- count_yearly_deaths >  deaths per year
 
 
